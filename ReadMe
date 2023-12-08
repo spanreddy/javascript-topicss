@@ -1,0 +1,9 @@
+javascript is a single threaded programming language
+callbacks are having super powers of handling async operations in javascript
+async programming in js is exist bcause the callbacks are exist
+issues with callback :
+1. callback hell (nested callbacks) 2. inversion of control
+one function in another function and another function is in other one it makes code unreadeable and unmaintainable
+this structure is know as pyramid of Doom
+2. Inversion of control:
+we loose the control over code when we use the callbacks
